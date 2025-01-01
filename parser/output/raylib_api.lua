@@ -27,7 +27,7 @@ return {
     {
       name = "RAYLIB_VERSION",
       type = "STRING",
-      value = "5.6-dev",
+      value = "5.5",
       description = ""
     },
     {

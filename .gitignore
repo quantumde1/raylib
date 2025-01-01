@@ -25,6 +25,7 @@ Thumbs.db
 *.ncb
 *.suo
 *.tlb
+*.txt
 *.tlh
 *.bak
 *.cache
